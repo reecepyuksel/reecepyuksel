@@ -23,7 +23,7 @@ Management Information Systems student passionate about technology, software dev
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🗄️ Databases  
