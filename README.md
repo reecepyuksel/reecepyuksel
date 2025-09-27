@@ -2,6 +2,7 @@
 Management Information Systems student passionate about technology, software development, and data-driven solutions.<br/>
 
 🌱 Currently learning about AI, web development, and database systems.<br/>
+📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-y%C3%BCksel/)
 
 
 ---
@@ -52,7 +53,7 @@ Management Information Systems student passionate about technology, software dev
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=reecepyuksel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepyuksel&layout=pie)
+| ![](https://github-readme-stats.vercel.app/api?username=reecepyuksel&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepyuksel&layout=pie&theme=radical) |
+| --- | --- |
 
 ---
