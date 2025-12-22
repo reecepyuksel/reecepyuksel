@@ -58,7 +58,7 @@ Management Information Systems student passionate about technology, software dev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reecepyuksel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=reecepyuksel&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
