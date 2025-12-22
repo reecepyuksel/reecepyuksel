@@ -52,11 +52,7 @@ Management Information Systems student passionate about technology, software dev
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reecepyuksel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Recep's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reecepyuksel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=reecepyuksel&theme=radical&hide_border=true&count_private=true)
+![Recep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reecepyuksel&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepyuksel&layout=compact&theme=radical&hide_border=true)
 
 ---
