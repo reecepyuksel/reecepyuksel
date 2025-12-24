@@ -50,9 +50,7 @@ Management Information Systems student passionate about technology, software dev
 
 ---
 
-## 📊 GitHub Stats
 
----
 
 ## 📊 GitHub Stats
 
@@ -64,4 +62,4 @@ Management Information Systems student passionate about technology, software dev
 
 ---
 
----
+
