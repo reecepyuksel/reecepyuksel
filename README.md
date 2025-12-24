@@ -52,7 +52,6 @@ Management Information Systems student passionate about technology, software dev
 
 ## 📊 GitHub Stats
 
-![Recep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reecepyuksel&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepyuksel&layout=compact&theme=radical&hide_border=true)
 
 ---
